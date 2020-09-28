@@ -67,11 +67,8 @@ analytics:
 author:
   name             : "Bing Xie Ph.D."
   avatar           : "bing.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "HPC Systems Engineer"
+  googlescholar    : "https://scholar.google.com/citations?user=StyCM7gAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
