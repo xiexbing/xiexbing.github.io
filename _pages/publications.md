@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "2020"
 permalink: /publications/
 author_profile: true
 ---
