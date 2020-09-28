@@ -70,33 +70,8 @@ author:
   bio              : "HPC Systems Engineer"
   googlescholar    : "https://scholar.google.com/citations?user=StyCM7gAAAAJ&hl=en&oi=ao"
   email            : "xieb at ornl.gov"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  uri              : "xiexbing.github.io"
+  github           : "https://github.com/xiexbing"
 
 
 # Reading Files
