@@ -1,7 +1,7 @@
 ---
 title: "RLScheduler: An Automated HPC Batch Job Scheduler Using Reinforcement Learning"
 collection: publications
-permalink: https://xiexbing.github.io/files/rlscheduler-sc20.pdf 
+permalink: /files/rlscheduler-sc20.pdf 
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
