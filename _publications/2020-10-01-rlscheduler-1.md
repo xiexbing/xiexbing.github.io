@@ -8,9 +8,8 @@ venue: 'SC'20'
 paperurl: 'https://xiexbing.github.io/files/rlscheduer-sc20.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-Di Zhang, Dong Dai, Youbiao He, Forrest Sheng Bao, Bing Xie. 
+This paper is about the number 1. The number 2 is left for future work.
 
-International Conference for High Performance Computing, Networking, Storage and Analysis, 2020. 
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-[Download paper here](https://xiexbing.github.io/files/rlscheduler-sc20.pdf)
-
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
