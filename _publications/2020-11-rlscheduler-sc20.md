@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "RLScheduler: An Automated HPC Batch Job Scheduler Using Reinforcement Learning"
 collection: publications
 permalink: /publication/2020-11-rlscheduler-sc20
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This work buids a resource scheduling system with reinforcement learning.'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Di Zhang, Dong Dai, Youbiao He, Forrest Sheng Bao, Bing Xie. 
+International Conference for High Performance Computing, Networking, Storage and Analysis, 2020.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
