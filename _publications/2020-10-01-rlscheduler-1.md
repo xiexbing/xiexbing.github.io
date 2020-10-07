@@ -1,7 +1,7 @@
 ---
-title: "abc"
+title: "RLScheduler: An Automated HPC Batch Job Scheduler Using Reinforcement Learning"
 collection: publications
-permalink: /publication/test
+permalink: /publication/2020-10-01-rlscheduler-1
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2020-01-01
 venue: 'Journal 1'
