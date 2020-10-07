@@ -3,8 +3,8 @@ title: "Output performance study on a production petascale filesystem"
 collection: publications
 permalink: /publication/2017-7-hpciodc
 excerpt: 'Woong Shin, Christopher D. Brumgard, Bing Xie, Sudharshan S. Vazhkudai, Devarshi Ghoshal, Sarp Oral, Lavanya Ramakrishnan.'
-date: 2019-07-01
-venue: 'HPC IODC Workshop '
+date: 2017-07-01
+venue: 'HPC IODC Workshop'
 paperurl: 'https://xiexbing.github.io/files/hpciodc17.pdf'
 ---
 This paper reports our observations from a top-tier supercomputer Titan and its Lustre parallel file stores under production load.
