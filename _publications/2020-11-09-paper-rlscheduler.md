@@ -1,7 +1,7 @@
 ---
 title: "RLScheduler: An Automated HPC Batch Job Scheduler Using Reinforcement Learning"
 collection: publications
-permalink: /publication/2020-11-01-paper-rlscheduler
+permalink: /publication/2020-11-09-paper-rlscheduler
 excerpt: 'A resource scheduling system built on reinforcement learning'
 date: 2020-11-09
 venue: 'SC'20'
