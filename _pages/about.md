@@ -13,5 +13,6 @@ I am an HPC systems engineer at Oak Ridge National Laboratory. I conduct system 
 News
 ======
 2020-11 RLScheduler is accepted to [SC'20](https://sc20.supercomputing.org/).
+
 2020-08 Bing is invited to serve as a TPC at [Cluster'21](https://clustercomp.org/2021/program/)
 
