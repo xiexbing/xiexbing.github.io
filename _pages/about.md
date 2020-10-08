@@ -14,4 +14,4 @@ News
 ======
 2020-10 [RLScheduler](https://xiexbing.github.io/publication/2020-11-rlscheduler-sc20) is accepted to [SC'20](https://sc20.supercomputing.org/).
 <br>2020-08 Bing is invited to serve as TPC at [Cluster'21](https://clustercomp.org/2021/program/)
-
+<br>2020-03 Bing is invited to serve as TPC at [HiPC'20](https://hipc.org/)
