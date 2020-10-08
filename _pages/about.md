@@ -14,5 +14,5 @@ News
 ======
 2020-10 [RLScheduler](https://xiexbing.github.io/publication/2020-11-rlscheduler-sc20) is accepted to [SC'20](https://sc20.supercomputing.org/).
 <br>2020-08 Bing is invited to serve as TPC at [Cluster'21](https://clustercomp.org/2021/program/)
-<br>2020-06 Bing is invited to give an expert talk at [HPC-IODC](https://hps.vi4io.org/events/2020/iodc) about performance tuning and optimization on HDF5. 
+<br>2020-06 Bing gives an expert talk at [HPC-IODC](https://hps.vi4io.org/events/2020/iodc) about performance tuning and optimization on HDF5. 
 <br>2020-03 Bing is invited to serve as TPC at [HiPC'20](https://hipc.org/)
