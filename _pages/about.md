@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bing Xie, HPC Systems Engineer at ORNL"
+title: "HPC Systems Engineer at ORNL"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
