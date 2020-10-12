@@ -20,5 +20,5 @@ News
 
 Recent Publications
 ======
-[<b>SC'20</b>] Di Zhang, Dong Dai, Youbiao He, Forrest Sheng Bao, Bing Xie. [RLScheduler: An Automated HPC Batch Job Scheduler Using Reinforcement Learning](https://xiexbing.github.io/publication/2020-11-rlscheduler-sc20)
-[<b>TOS'20</b>] Bing Xie, Sarp Oral, Chris Zimmer, Jong Youl Choi, Dave Dillow, Scott Klasky, Jay Lofstead, Norbert Podhorszki, Jeff S. Chase. [Characterizing Output Bottlenecks of a Production Supercomputer: Analysis and Implications](https://xiexbing.github.io/publication/2020-01-tos)
+<br>[<b>SC'20</b>] Di Zhang, Dong Dai, Youbiao He, Forrest Sheng Bao, Bing Xie. [RLScheduler: An Automated HPC Batch Job Scheduler Using Reinforcement Learning](https://xiexbing.github.io/publication/2020-11-rlscheduler-sc20)
+<br>[<b>TOS'20</b>] Bing Xie, Sarp Oral, Chris Zimmer, Jong Youl Choi, Dave Dillow, Scott Klasky, Jay Lofstead, Norbert Podhorszki, Jeff S. Chase. [Characterizing Output Bottlenecks of a Production Supercomputer: Analysis and Implications](https://xiexbing.github.io/publication/2020-01-tos)
