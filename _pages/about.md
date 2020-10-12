@@ -20,4 +20,4 @@ News
 
 Recent Publications
 ======
-<h3>2020</h3>
+<h2>2020</h2>
