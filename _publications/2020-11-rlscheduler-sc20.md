@@ -1,8 +1,8 @@
 ---
-title: "RLScheduler: An Automated HPC Batch Job Scheduler Using Reinforcement Learning"
+title: "RLScheduler: an automated HPC batch job scheduler using reinforcement learning"
 collection: publications
 permalink: /publication/2020-11-rlscheduler-sc20
-excerpt: 'Di Zhang, Dong Dai, Youbiao He, Forrest Sheng Bao, Bing Xie.'
+excerpt: 'Di Zhang, Dong Dai, Youbiao He, Forrest Sheng Bao, Bing Xie'
 date: 2020-11-01
 venue: 'SC'
 paperurl: 'https://xiexbing.github.io/files/rlscheduler-sc20.pdf'
