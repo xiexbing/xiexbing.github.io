@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an HPC systems engineer at Oak Ridge National Laboratory. I conduct system research and emphasize on several areas: file systems, deep learning learning frameworks, and system-level performance profiling at supercomputing facilities. 
+I am an HPC systems engineer at Oak Ridge National Laboratory. I conduct system research and emphasize on several areas: file systems, deep learning frameworks, and system-level performance profiling at supercomputing facilities. 
 
 News
 ======
