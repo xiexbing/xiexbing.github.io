@@ -24,5 +24,7 @@ News
 Recent Publications
 ======
 (Click [here](https://xiexbing.github.io/publications/) for complete list)
+<br>[<b>CCGrid'21</b>] Bing Xie\*, Houjun Tang\*, Suren Byna, Jesse Hanley, Quincey Koziol, Tonglin Li, Sarp Oral. [Battle of the Defaults: Extracting Performance Characteristics of HDF5 under Production Load](https://xiexbing.github.io/publication/2021-05-hdf5-ccgrid21) (\* equal contribution)
+<br>[<b>IPDPS'21</b>] Bing Xie, Zilong Tan, Phil Carns, Jeff Chase, Kevin Harms, Jay Lofstead, Sarp Oral, Sudharshan Vazhkudai, Feiyi Wang [Interpreting Write Performance of Supercomputer I/O Systems with Regression Models](https://xiexbing.github.io/publication/2021-05-modeling-ipdps21)
 <br>[<b>SC'20</b>] Di Zhang, Dong Dai, Youbiao He, Forrest Sheng Bao, Bing Xie. [RLScheduler: An Automated HPC Batch Job Scheduler Using Reinforcement Learning](https://xiexbing.github.io/publication/2020-11-rlscheduler-sc20)
 <br>[<b>TOS'20</b>] Bing Xie, Sarp Oral, Chris Zimmer, Jong Youl Choi, Dave Dillow, Scott Klasky, Jay Lofstead, Norbert Podhorszki, Jeff S. Chase. [Characterizing Output Bottlenecks of a Production Supercomputer: Analysis and Implications](https://xiexbing.github.io/publication/2020-01-tos)
