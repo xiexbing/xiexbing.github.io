@@ -12,7 +12,7 @@ I am an HPC systems engineer at Oak Ridge National Laboratory. I conduct system 
 
 News
 ======
-2021-7 Wire is accepted to [Cluster'21](https://clustercomp.org/2021/program/)
+2021-7 WIRE is accepted to [Cluster'21](https://clustercomp.org/2021/program/)
 <br>2021-6 AcoDL is accepted to [NSDI'22](https://www.usenix.org/conference/nsdi22)
 <br>2021-2 HDF5 performance tuning work is accepted to [CCGrid'21](http://cloudbus.org/ccgrid2021/)
 <br>2020-12 serve as TPC at [HPDC'21](http://www.hpdc.org/2021/)
