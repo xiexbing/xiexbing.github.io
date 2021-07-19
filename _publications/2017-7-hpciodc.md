@@ -1,5 +1,5 @@
 ---
-title: "Output performance study on a production petascale filesystem"
+title: "Output Performance Study on A Production Petascale Filesystem"
 collection: publications
 permalink: /publication/2017-7-hpciodc
 excerpt: 'Bing Xie, Jeff Chase, David Dillow, Scott Klasky, Jay Lofstead, Sarp Oral, Norbert Podhorszki'
