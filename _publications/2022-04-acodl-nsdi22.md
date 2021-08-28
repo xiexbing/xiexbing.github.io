@@ -1,5 +1,5 @@
 ---
-title: "Accelerating Collective Communication in Data Parallel Trainingacross Deep Learning Frameworks"
+title: "Accelerating Collective Communication in Data Parallel Training across Deep Learning Frameworks"
 collection: publications
 permalink: /publication/2022-04-acodl-nsdi22
 excerpt: 'Joshua Romero, Junqi Yin, Nouamane Laanait, Bing Xie, M. Todd Young, Sean Treichler, Vitalii Starchenko, Albina Borisevich, Alex Sergeev, Michael Matheson'
