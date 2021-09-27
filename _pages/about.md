@@ -13,7 +13,7 @@ I am an HPC research scientist at Oak Ridge National Laboratory. I conduct compu
 News
 ======
 2021-9 two papers are accepted at [PDSW'21](http://www.pdsw.org/index.shtml)
-<br>2021-9 selected as a winner of [2021 IEEE-CS Early Career Researchers Award](https://tc.computer.org/tchpc/2021/09/23/2021-ieee-cs-tchpc-award-winners/).
+<br>2021-9 selected as a winner of [2021 IEEE-CS TCHPC Early Career Researchers Award](https://tc.computer.org/tchpc/2021/09/23/2021-ieee-cs-tchpc-award-winners/).
 <br>2021-7 WIRE is accepted to [Cluster'21](https://clustercomp.org/2021/program/)
 <br>2021-6 Our Horovod's proposal is accepted to [NSDI'22](https://www.usenix.org/conference/nsdi22) and is incorporated in [Horovod v0.21.0](https://github.com/horovod/horovod/tree/v0.21.0)
 <br>2021-2 HDF5 performance tuning work is accepted to [CCGrid'21](http://cloudbus.org/ccgrid2021/)
