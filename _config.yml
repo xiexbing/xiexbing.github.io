@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Bing's Personal Webpage"
 title_separator          : "-"
-name                     : &name "Bing Xie Ph.D."
+name                     : &name "Bing Xie (谢冰) Ph.D."
 description              : &description "HPC Research Scientist"
 url                      : https://xiexbing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
