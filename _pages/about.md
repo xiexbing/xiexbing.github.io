@@ -13,7 +13,6 @@ I am an HPC research scientist at Oak Ridge National Laboratory. I conduct compu
 News
 ======
 2022-1 gave a talk at Microsoft Research about our recent works in Horovod and HDF5. 
-
 2021-12 serve as TPCs at [Cluster'22](https://clustercomp.org/2022/), [CCGrid'22](https://fcrlab.unime.it/ccgrid22/), [IPDPS'22](https://www.ipdps.org/), [SC'22](https://sc22.supercomputing.org/), [HPDC'22](http://www.hpdc.org/2022/).  
 2021-9 two papers are accepted to [PDSW'21](http://www.pdsw.org/index.shtml)
 <br>2021-9 selected as a winner of [2021 IEEE-CS TCHPC Early Career Researchers Award](https://tc.computer.org/tchpc/2021/09/23/2021-ieee-cs-tchpc-award-winners/).
