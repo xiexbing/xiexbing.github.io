@@ -26,6 +26,8 @@ News
 Recent Publications
 ======
 (Click [here](https://xiexbing.github.io/publications/) for complete list)
+<br>[<b>HPDC'22</b>] Jean Luca Bez\*, Ahmad Maroof Karimi\*, Arnab K. Paul\*, Bing Xie\*, Suren Byna, Philip Carns, Sarp Oral, Feiyi Wang, Jesse Hanley [Access Patterns and Performance Behaviors of Multi-layer Supercomputer I/O Subsystems under Production Load](https://xiexbing.github.io/publication/2022-05-io-hpdc22) (\* equal contribution)
+<br>[<b>HPDC'22</b>] Di Zhang, Dong Dai, Bing Xie [SchedInspector: A Batch Job Scheduling Inspector Using Reinforcement Learning](https://xiexbing.github.io/publication/2022-05-schedinspector-hpdc22)
 <br>[<b>NSDI'22</b>] Joshua Romero, Junqi Yin, Nouamane Laanait, Bing Xie, Todd Young, Sean Treichler, Vitalii Starchenko, Albina Borisevich, Alex Sergeev, Michael Matheson [Accelerating Collective Communication in Data Parallel Training across Deep Learning Frameworks](https://xiexbing.github.io/publication/2022-04-acodl-nsdi22)
 <br>[<b>PDSW'21</b>]Houjun Tang\*, Bing Xie\*, Suren Byna, Philip Carns, Quincey Koziol, Sudarsun Kannan, Jay Lofstead, Sarp Oral [SCTuner: An Autotuner Addressing Dynamic I/O Needs on Supercomputer I/O Subsystems](https://xiexbing.github.io/publication/2021-11-sctuner-pdsw21) (\* equal contribution)
 <br>[<b>PDSW'21</b>]Jean Luca Bez, Houjun Tang, Bing Xie, David Williams-Young, Rob Latham, Rob Ross, Sarp Oral, Suren Byna [I/O Bottleneck Detection and Tuning:Towards Connecting the Dots using Interactive Log Analysis](https://xiexbing.github.io/publication/2021-11-bottleneck-pdsw21)
