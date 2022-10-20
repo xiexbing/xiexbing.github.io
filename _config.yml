@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bing's Personal Webpage"
 title_separator          : "-"
 name                     : &name "Bing Xie (谢冰) Ph.D."
-description              : &description "HPC Research Scientist"
+description              : &description "Senior Researcher"
 url                      : https://xiexbing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiexbing.github.io"
@@ -67,9 +67,9 @@ analytics:
 author:
   name             : "Bing Xie (谢冰) Ph.D."
   avatar           : "bing.jpg"
-  bio              : "HPC research Scientist"
+  bio              : "Senior Researcher at Microsoft"
   googlescholar    : "https://scholar.google.com/citations?user=StyCM7gAAAAJ&hl=en&oi=ao"
-  email            : "xieb at ornl.gov"
+  email            : "bingxie at microsoft.com"
   github           : "xiexbing"
 
 
