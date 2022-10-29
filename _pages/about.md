@@ -14,7 +14,8 @@ I am a Senior Researcher at [the DeepSpeed team](https://www.microsoft.com/en-us
 News
 ======
 <!--2022-01 gave a talk at Microsoft Research and expect to the talks at CSE@UBuffalo, CS@W&M, ECE@Rutgers, and CS@WSU. -->
-2022-09 start a new position at Microsoft. Thanks all my mentors, collaborators, and friends! 
+2022-10 serve as TPCs at [IPDPS'23](https://www.ipdps.org/), [Cluster'23]((https://clustercomp.org/2023/)
+<br>2022-09 start a new position at Microsoft. 
 <br>2022-05 two papers are accepted to [HPDC'22](https://www.hpdc.org/2022/)
 <br>2022-02 very happy to be invited to serve as a co-chair of [PDSW'22](http://www.pdsw.org/index.shtml)
 <br>2022-01 two papers are accepted to ASCR'22 [Workshop on the Management and Storage of Scientific Data](https://web.cvent.com/event/1fe48ee7-ca19-49c0-b6eb-d5f4a81c3d5f/websitePage:0f4d4da9-1799-4e38-bd74-b72ee51b5282) 
