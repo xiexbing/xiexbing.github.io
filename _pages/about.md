@@ -14,17 +14,17 @@ I am a Senior Researcher at [the DeepSpeed team](https://www.microsoft.com/en-us
 News
 ======
 <!--2022-01 gave a talk at Microsoft Research and expect to the talks at CSE@UBuffalo, CS@W&M, ECE@Rutgers, and CS@WSU. -->
-2022-10 serve as TPCs at [IPDPS'23](https://www.ipdps.org/), [Cluster'23](https://clustercomp.org/2023/)
+2022-10 serve as TPCs at [IPDPS'23](https://www.ipdps.org/), [Cluster'23](https://clustercomp.org/2023/), [SC'23](https://sc23.supercomputing.org/)
 <br>2022-09 start a new position at Microsoft. 
 <br>2022-05 two papers are accepted to [HPDC'22](https://www.hpdc.org/2022/)
 <br>2022-02 very happy to be invited to serve as a co-chair of [PDSW'22](http://www.pdsw.org/index.shtml)
 <br>2022-01 two papers are accepted to ASCR'22 [Workshop on the Management and Storage of Scientific Data](https://web.cvent.com/event/1fe48ee7-ca19-49c0-b6eb-d5f4a81c3d5f/websitePage:0f4d4da9-1799-4e38-bd74-b72ee51b5282) 
-<br>2021-12 serve as TPCs at [Cluster'22](https://clustercomp.org/2022/), [CCGrid'22](https://fcrlab.unime.it/ccgrid22/), [IPDPS'22](https://www.ipdps.org/), [SC'22](https://sc22.supercomputing.org/), [HPDC'22](http://www.hpdc.org/2022/), [HotStorage'22](https://www.hotstorage.org/2022/), [HPC-IODC'22](https://hps.vi4io.org/events/2022/iodc).  
+#<br>2021-12 serve as TPCs at [Cluster'22](https://clustercomp.org/2022/), [CCGrid'22](https://fcrlab.unime.it/ccgrid22/), [IPDPS'22](https://www.ipdps.org/), [SC'22](https://sc22.supercomputing.org/), [HPDC'22](http://www.hpdc.org/2022/), [HotStorage'22](https://www.hotstorage.org/2022/), [HPC-IODC'22](https://hps.vi4io.org/events/2022/iodc).  
 2021-9 two papers are accepted to [PDSW'21](http://www.pdsw.org/index.shtml)
-<br>2021-9 selected as a winner of [2021 IEEE-CS TCHPC Early Career Researchers Award](https://tc.computer.org/tchpc/2021/09/23/2021-ieee-cs-tchpc-award-winners/).
-<br>2021-7 WIRE is accepted to [Cluster'21](https://clustercomp.org/2021/program/)
-<br>2021-6 Our Horovod's proposal is accepted to [NSDI'22](https://www.usenix.org/conference/nsdi22) and is incorporated in [Horovod v0.21.0](https://github.com/horovod/horovod/tree/v0.21.0)
-<br>2021-2 HDF5 performance tuning work is accepted to [CCGrid'21](http://cloudbus.org/ccgrid2021/)
+#<br>2021-9 selected as a winner of [2021 IEEE-CS TCHPC Early Career Researchers Award](https://tc.computer.org/tchpc/2021/09/23/2021-ieee-cs-tchpc-award-winners/).
+#<br>2021-7 WIRE is accepted to [Cluster'21](https://clustercomp.org/2021/program/)
+#<br>2021-6 Our Horovod's proposal is accepted to [NSDI'22](https://www.usenix.org/conference/nsdi22) and is incorporated in [Horovod v0.21.0](https://github.com/horovod/horovod/tree/v0.21.0)
+#<br>2021-2 HDF5 performance tuning work is accepted to [CCGrid'21](http://cloudbus.org/ccgrid2021/)
 
 Recent Publications
 ======
