@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Researcher at [the DeepSpeed team](https://www.microsoft.com/en-us/research/project/deepspeed/) at Microsoft AI. 
-<!-- I conduct computer systems research emphasizing on file systems, deep learning systems, and resource scheduling and management in HPC and cloud.--> 
+I am a Senior Researcher at [the DeepSpeed team](https://www.microsoft.com/en-us/research/project/deepspeed/) at Microsoft AI. I conduct computer systems research emphasizing on file systems, deep learning systems, and resource scheduling and management in HPC and cloud. 
+
+Before joining Microsoft, I was a research scientist at Oak Ridge National Laboratory (2017-2022).  
+
 
 News
 ======
