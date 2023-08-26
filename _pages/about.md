@@ -16,6 +16,7 @@ Before joining Microsoft, I was a research scientist at Oak Ridge National Labor
 News
 ======
 <!--2022-01 gave a talk at Microsoft Research and expect to the talks at CSE@UBuffalo, CS@W&M, ECE@Rutgers, and CS@WSU. -->
+2023-08 give a talk at [WiDS Santa Clara](http://wids-santaclara.org/?i=1)
 2022-10 serve as TPCs at [IPDPS'23](https://www.ipdps.org/), [Cluster'23](https://clustercomp.org/2023/), [SC'23](https://sc23.supercomputing.org/)
 <br>2022-09 start a new position at Microsoft. 
 <br>2022-05 two papers are accepted to [HPDC'22](https://www.hpdc.org/2022/)
