@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Researcher at Microsoft AI. I conduct computer systems research emphasizing on recommendation systems, LLMs, file systems,  and resource scheduling and management in HPC and cloud. 
+I am a Senior Researcher at Microsoft AI, where I conduct computer systems research emphasizing on recommendation systems and large language models. abc 
 
 Before joining Microsoft, I was a research scientist at Oak Ridge National Laboratory (2017-2022). During my time at ORNL, I received the 2021 [IEEE-CS TCHPC Early Career Researchers Award for Excellence in High Performance Computing](https://tc.computer.org/tchpc/2021/09/23/2021-ieee-cs-tchpc-award-winners/).   
 
@@ -33,6 +33,7 @@ News
 Recent Publications
 ======
 (Click [here](https://xiexbing.github.io/publications/) for complete list)
+
 <br>[<b>HPDC'22</b>] Jean Luca Bez\*, Ahmad Maroof Karimi\*, Arnab K. Paul\*, Bing Xie\*, Suren Byna, Philip Carns, Sarp Oral, Feiyi Wang, Jesse Hanley [Access Patterns and Performance Behaviors of Multi-layer Supercomputer I/O Subsystems under Production Load](https://xiexbing.github.io/publication/2022-05-io-hpdc22) (\* equal contribution)
 <br>[<b>HPDC'22</b>] Di Zhang, Dong Dai, Bing Xie [SchedInspector: A Batch Job Scheduling Inspector Using Reinforcement Learning](https://xiexbing.github.io/publication/2022-05-schedinspector-hpdc22)
 <br>[<b>NSDI'22</b>] Joshua Romero, Junqi Yin, Nouamane Laanait, Bing Xie, Todd Young, Sean Treichler, Vitalii Starchenko, Albina Borisevich, Alex Sergeev, Michael Matheson [Accelerating Collective Communication in Data Parallel Training across Deep Learning Frameworks](https://xiexbing.github.io/publication/2022-04-acodl-nsdi22)
