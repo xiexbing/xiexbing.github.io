@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Researcher at Microsoft AI, where I conduct computer systems research emphasizing on recommendation systems and large language models. abc 
+I am a Senior Researcher at Microsoft AI, where I conduct computer systems research emphasizing on recommendation systems and large language models.  
 
 Before joining Microsoft, I was a research scientist at Oak Ridge National Laboratory (2017-2022). During my time at ORNL, I received the 2021 [IEEE-CS TCHPC Early Career Researchers Award for Excellence in High Performance Computing](https://tc.computer.org/tchpc/2021/09/23/2021-ieee-cs-tchpc-award-winners/).   
 
