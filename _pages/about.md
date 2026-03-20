@@ -28,7 +28,7 @@ Recent Publications
 ======
 (Click [here](https://xiexbing.github.io/publications/) for complete list)
 
-<br>[<b>2025</b>] Bing Xie et al. [Peek: Queue-Predictive KV Cache Management for LLM Serving](https://xiexbing.github.io/publication/2025-01-peek) (under preparation)
+<br>[<b>2026</b>] Bing Xie et al. [Peek: Queue-Predictive KV Cache Management for LLM Serving](https://xiexbing.github.io/publication/2026-01-peek) (under preparation)
 <br>[<b>2025</b>] Bing Xie\*, Junqi Yin\*, Zihao Zhou\*, Sarp Oral, Feiyi Wang [Scaling Up Data Parallelism in Decentralized Deep Learning](https://xiexbing.github.io/publication/2025-01-scaling-dp) (\* equal contribution, arXiv preprint)
 <br>[<b>2024</b>] Guanhua Wang, Olatunji Ruwase, Bing Xie, Yuxiong He [FastPersist: Accelerating Model Checkpointing in Deep Learning](https://xiexbing.github.io/publication/2024-01-fastpersist) (arXiv preprint)
 <br>[<b>ASPLOS'24</b>] Shaleen Garg, Jian Zhang, Rajesh Pitchumani, Sharath Parashar, Bing Xie [CrossPrefetch: Accelerating I/O Prefetching for Modern Storage](https://xiexbing.github.io/publication/2024-04-crossprefetch-asplos24)
