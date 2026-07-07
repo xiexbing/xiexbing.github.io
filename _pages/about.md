@@ -15,7 +15,8 @@ Previously, I was a Tech Lead and Senior Researcher at Microsoft (2022-2025), wo
 
 News
 ======
-2026 serve as TPCs at SC'26, IPDPS'26, ICPP'26
+2026 released [PEEK](https://arxiv.org/abs/2607.02525), a predictive queue-informed KV cache manager for LLM serving ([code](https://github.com/xiexbing/peek))
+<br>2026 serve as TPCs at SC'26, IPDPS'26, ICPP'26
 <br>2025-05 start a new position at Meta.
 <br>2025 serve as TPCs at [SC'25](https://sc25.supercomputing.org/), [IPDPS'25](https://www.ipdps.org/)
 <br>2024 one paper is accepted to [ASPLOS'24](https://www.asplos-conference.org/asplos2024/program/)
@@ -28,7 +29,7 @@ Recent Publications
 ======
 (Click [here](https://xiexbing.github.io/publications/) for complete list)
 
-<br>[<b>2026</b>] Bing Xie et al. [Peek: Queue-Predictive KV Cache Management for LLM Serving](https://xiexbing.github.io/publication/2026-01-peek) (under preparation)
+<br>[<b>2026</b>] Bing Xie, Z. Wang, M. Tanaka, Z. Zhen [PEEK: Predictive Queue-Informed KV Cache Management for LLM Serving](https://xiexbing.github.io/publication/2026-01-peek) (arXiv preprint, [paper](https://arxiv.org/abs/2607.02525), [code](https://github.com/xiexbing/peek))
 <br>[<b>2025</b>] Bing Xie\*, Junqi Yin\*, Zihao Zhou\*, Sarp Oral, Feiyi Wang [Scaling Up Data Parallelism in Decentralized Deep Learning](https://xiexbing.github.io/publication/2025-01-scaling-dp) (\* equal contribution, arXiv preprint)
 <br>[<b>2024</b>] Guanhua Wang, Olatunji Ruwase, Bing Xie, Yuxiong He [FastPersist: Accelerating Model Checkpointing in Deep Learning](https://xiexbing.github.io/publication/2024-01-fastpersist) (arXiv preprint)
 <br>[<b>ASPLOS'24</b>] Shaleen Garg, Jian Zhang, Rajesh Pitchumani, Sharath Parashar, Bing Xie [CrossPrefetch: Accelerating I/O Prefetching for Modern Storage](https://xiexbing.github.io/publication/2024-04-crossprefetch-asplos24)
